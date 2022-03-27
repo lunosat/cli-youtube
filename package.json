@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node cli.js"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "chalk-animation": "^1.6.0",
+    "usetube": "^2.1.4"
+  }
+}
