@@ -5,6 +5,11 @@ const args = process.argv
 const url = args[2]
 const options = args[3]
 
+if(!url){
+    console.log('Please, inform the url')
+    process.exit(1)
+}
+
 const arrayOptions = ['--help', '--playlist', '--video', '--audio', '--subtitle']
 
 async function verifyOptions (argument) {
