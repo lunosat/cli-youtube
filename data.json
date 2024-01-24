@@ -1,0 +1,1808 @@
+[
+  {
+    "videoModalId": "2",
+    "iframeSrc": "https://playertv.net/c/u.php?id=ae",
+    "videoTitle": "A&E",
+    "imgSrc": "https://www.aetv.com/assets/images/aetv/generic-thumb.jpg"
+  },
+  {
+    "videoModalId": "3",
+    "iframeSrc": "https://playertv.net/tv.php?c=ae",
+    "videoTitle": "A&E Op 2",
+    "imgSrc": "https://www.aetv.com/assets/images/aetv/generic-thumb.jpg"
+  },
+  {
+    "videoModalId": "4",
+    "iframeSrc": "https://playertv.net/tv.php?c=swim",
+    "videoTitle": "Adult Swim",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBU0VhSboc8bJ0oO3XKc8ILl-EWWnTcDzbiglQ-EavJg_owQ4Fkl4lTcr09CPbTOYL1RM&usqp=CAU"
+  },
+  {
+    "videoModalId": "5",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=amc",
+    "videoTitle": "AMC",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2DOHseIBWp0MmdI2AxzfctJP-koLYpkvSL3dIWqHaXM7TLBD3YeFurGj1gkVxOldOUbA&usqp=CAU"
+  },
+  {
+    "videoModalId": "6",
+    "iframeSrc": "https://playertv.net/tv.php?c=amc",
+    "videoTitle": "AMC Op 2",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2DOHseIBWp0MmdI2AxzfctJP-koLYpkvSL3dIWqHaXM7TLBD3YeFurGj1gkVxOldOUbA&usqp=CAU"
+  },
+  {
+    "videoModalId": "7",
+    "iframeSrc": "https://playertv.net/tv.php?c=animal-planet",
+    "videoTitle": "Animal Planet",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxkaFycWQSc3nObyO5djZsoOi8XtcoaY4Q7ZSU5TW2zqMde-p-sP4tz5769Mt0eu653ms&usqp=CAU"
+  },
+  {
+    "videoModalId": "8",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=arte1",
+    "videoTitle": "Arte1",
+    "imgSrc": "https://i.ytimg.com/vi/NMmW0WMu-qQ/maxresdefault.jpg"
+  },
+  {
+    "videoModalId": "9",
+    "iframeSrc": "https://playertv.net/c/u.php?id=arte1",
+    "videoTitle": "Arte1 Op 2",
+    "imgSrc": "https://i.ytimg.com/vi/NMmW0WMu-qQ/maxresdefault.jpg"
+  },
+  {
+    "videoModalId": "10",
+    "iframeSrc": "https://playertv.net/tv.php?c=arte1",
+    "videoTitle": "Arte1 Op 3",
+    "imgSrc": "https://i.ytimg.com/vi/NMmW0WMu-qQ/maxresdefault.jpg"
+  },
+  {
+    "videoModalId": "11",
+    "iframeSrc": "https://playertv.net/c/u.php?id=axn",
+    "videoTitle": "AXN",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp74evk8GkwjQLH0Gpx_f1DqmRFYg8RD78iJIM9w3PG2wkL0sBQ_OdJXUv5Y7NH2-uW_o&usqp=CAU"
+  },
+  {
+    "videoModalId": "12",
+    "iframeSrc": "https://playertv.net/tv.php?c=axn",
+    "videoTitle": "AXN Op 2",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp74evk8GkwjQLH0Gpx_f1DqmRFYg8RD78iJIM9w3PG2wkL0sBQ_OdJXUv5Y7NH2-uW_o&usqp=CAU"
+  },
+  {
+    "videoModalId": "13",
+    "iframeSrc": "https://playertv.net/tv.php?c=babytv",
+    "videoTitle": "Baby TV",
+    "imgSrc": "https://4.bp.blogspot.com/-wIun4-kksPw/WAUfB3K1crI/AAAAAAAAkns/H1KgOddBOqAh6RuL4DHAZCqJUztyaJqygCLcB/s1600/BabyTV_Net_Claro.jpg"
+  },
+  {
+    "videoModalId": "14",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=band",
+    "videoTitle": "Band",
+    "imgSrc": "https://s3.amazonaws.com/ibc-wp/wp-content/uploads/2017/07/30111750/Band-Logo.jpg"
+  },
+  {
+    "videoModalId": "15",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=bandNews",
+    "videoTitle": "Band News",
+    "imgSrc": "https://imagem.natelinha.uol.com.br/original/band-news-lanterninha_5396.jpeg"
+  },
+  {
+    "videoModalId": "16",
+    "iframeSrc": "https://playertv.net/c/u.php?id=bandNews",
+    "videoTitle": "Band News Op 2",
+    "imgSrc": "https://imagem.natelinha.uol.com.br/original/band-news-lanterninha_5396.jpeg"
+  },
+  {
+    "videoModalId": "17",
+    "iframeSrc": "https://playertv.net/tv.php?c=band-news",
+    "videoTitle": "Band News Op 3",
+    "imgSrc": "https://imagem.natelinha.uol.com.br/original/band-news-lanterninha_5396.jpeg"
+  },
+  {
+    "videoModalId": "18",
+    "iframeSrc": "https://playertv.net/tv.php?c=band",
+    "videoTitle": "Band Op 2",
+    "imgSrc": "https://s3.amazonaws.com/ibc-wp/wp-content/uploads/2017/07/30111750/Band-Logo.jpg"
+  },
+  {
+    "videoModalId": "19",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=bandSports",
+    "videoTitle": "Band Sports",
+    "imgSrc": "https://i0.wp.com/portalaltadefinicao.com/wp-content/uploads/2021/11/BandSports_logo-baixa.png?fit=1200%2C675&quality=100&ssl=1"
+  },
+  {
+    "videoModalId": "20",
+    "iframeSrc": "https://playertv.net/c/u.php?id=bandSports",
+    "videoTitle": "Band Sports Op 2",
+    "imgSrc": "https://i0.wp.com/portalaltadefinicao.com/wp-content/uploads/2021/11/BandSports_logo-baixa.png?fit=1200%2C675&quality=100&ssl=1"
+  },
+  {
+    "videoModalId": "21",
+    "iframeSrc": "https://playertv.net/tv.php?c=band-sports",
+    "videoTitle": "Band Sports Op 3",
+    "imgSrc": "https://i0.wp.com/portalaltadefinicao.com/wp-content/uploads/2021/11/BandSports_logo-baixa.png?fit=1200%2C675&quality=100&ssl=1"
+  },
+  {
+    "videoModalId": "22",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=244881",
+    "videoTitle": "BBB 24 – CASA 1",
+    "imgSrc": "https://www.otempo.com.br/image/contentid/policy:1.3297892:1704579674/bbb-24-png.png"
+  },
+  {
+    "videoModalId": "23",
+    "iframeSrc": "https://playertv.net/tv.php?c=bbb",
+    "videoTitle": "BBB 24 – CASA 1 ALT",
+    "imgSrc": "https://www.otempo.com.br/image/contentid/policy:1.3297892:1704579674/bbb-24-png.png"
+  },
+  {
+    "videoModalId": "24",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=772202",
+    "videoTitle": "BBB 24 – CASA 2",
+    "imgSrc": "https://www.otempo.com.br/image/contentid/policy:1.3297892:1704579674/bbb-24-png.png"
+  },
+  {
+    "videoModalId": "25",
+    "iframeSrc": "https://playertv.net/tv.php?c=bbb2",
+    "videoTitle": "BBB 24 – CASA 2 ALT",
+    "imgSrc": "https://www.otempo.com.br/image/contentid/policy:1.3297892:1704579674/bbb-24-png.png"
+  },
+  {
+    "videoModalId": "26",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=2254996",
+    "videoTitle": "BBB 24 BANHEIRO",
+    "imgSrc": "https://www.otempo.com.br/image/contentid/policy:1.3297892:1704579674/bbb-24-png.png"
+  },
+  {
+    "videoModalId": "27",
+    "iframeSrc": "https://playertv.net/tv.php?c=bbbBanheiro",
+    "videoTitle": "BBB 24 BANHEIRO ALT",
+    "imgSrc": "https://www.otempo.com.br/image/contentid/policy:1.3297892:1704579674/bbb-24-png.png"
+  },
+  {
+    "videoModalId": "28",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=244890",
+    "videoTitle": "BBB 24 COZINHA",
+    "imgSrc": "https://www.otempo.com.br/image/contentid/policy:1.3297892:1704579674/bbb-24-png.png"
+  },
+  {
+    "videoModalId": "29",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=244889",
+    "videoTitle": "BBB 24 COZINHA DELÍCIA",
+    "imgSrc": "https://www.otempo.com.br/image/contentid/policy:1.3297892:1704579674/bbb-24-png.png"
+  },
+  {
+    "videoModalId": "30",
+    "iframeSrc": "https://playertv.net/tv.php?c=bbbCozinha",
+    "videoTitle": "BBB 24 COZINHA DELÍCIA ALT",
+    "imgSrc": "https://www.otempo.com.br/image/contentid/policy:1.3297892:1704579674/bbb-24-png.png"
+  },
+  {
+    "videoModalId": "31",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=10101606",
+    "videoTitle": "BBB 24 MOSAICO",
+    "imgSrc": "https://www.otempo.com.br/image/contentid/policy:1.3297892:1704579674/bbb-24-png.png"
+  },
+  {
+    "videoModalId": "32",
+    "iframeSrc": "https://playertv.net/tv.php?c=bbbMosaico",
+    "videoTitle": "BBB 24 MOSAICO ALT",
+    "imgSrc": "https://www.otempo.com.br/image/contentid/policy:1.3297892:1704579674/bbb-24-png.png"
+  },
+  {
+    "videoModalId": "33",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=6349747",
+    "videoTitle": "BBB 24 QUARTO FADA",
+    "imgSrc": "https://www.otempo.com.br/image/contentid/policy:1.3297892:1704579674/bbb-24-png.png"
+  },
+  {
+    "videoModalId": "34",
+    "iframeSrc": "https://playertv.net/tv.php?c=bbbFada",
+    "videoTitle": "BBB 24 QUARTO FADA ALT",
+    "imgSrc": "https://www.otempo.com.br/image/contentid/policy:1.3297892:1704579674/bbb-24-png.png"
+  },
+  {
+    "videoModalId": "35",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=772205",
+    "videoTitle": "BBB 24 QUARTO GNOMO",
+    "imgSrc": "https://www.otempo.com.br/image/contentid/policy:1.3297892:1704579674/bbb-24-png.png"
+  },
+  {
+    "videoModalId": "36",
+    "iframeSrc": "https://playertv.net/tv.php?c=bbbGnomo",
+    "videoTitle": "BBB 24 QUARTO GNOMO ALT",
+    "imgSrc": "https://www.otempo.com.br/image/contentid/policy:1.3297892:1704579674/bbb-24-png.png"
+  },
+  {
+    "videoModalId": "37",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=2254997",
+    "videoTitle": "BBB 24 QUARTO MAGIA",
+    "imgSrc": "https://www.otempo.com.br/image/contentid/policy:1.3297892:1704579674/bbb-24-png.png"
+  },
+  {
+    "videoModalId": "38",
+    "iframeSrc": "https://playertv.net/tv.php?c=bbbMagia",
+    "videoTitle": "BBB 24 QUARTO MAGIA ALT",
+    "imgSrc": "https://www.otempo.com.br/image/contentid/policy:1.3297892:1704579674/bbb-24-png.png"
+  },
+  {
+    "videoModalId": "39",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=2255000",
+    "videoTitle": "BBB 24 SALA",
+    "imgSrc": "https://www.otempo.com.br/image/contentid/policy:1.3297892:1704579674/bbb-24-png.png"
+  },
+  {
+    "videoModalId": "40",
+    "iframeSrc": "https://playertv.net/tv.php?c=bbbSala",
+    "videoTitle": "BBB 24 SALA ALT",
+    "imgSrc": "https://www.otempo.com.br/image/contentid/policy:1.3297892:1704579674/bbb-24-png.png"
+  },
+  {
+    "videoModalId": "41",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=244887",
+    "videoTitle": "BBB 24 SEGUE O LÍDER",
+    "imgSrc": "https://www.otempo.com.br/image/contentid/policy:1.3297892:1704579674/bbb-24-png.png"
+  },
+  {
+    "videoModalId": "42",
+    "iframeSrc": "https://playertv.net/tv.php?c=btv",
+    "videoTitle": "Benfica TV",
+    "imgSrc": "https://static.ndmais.com.br/2013/07/18-07-2013-06-07-03-benfica-tv-tem-80-mil-assinantes-e-concorrente-responde-com-novo-canal.jpg"
+  },
+  {
+    "videoModalId": "43",
+    "iframeSrc": "https://playertv.net/tv.php?c=btv-alt",
+    "videoTitle": "Benfica TV Op 2",
+    "imgSrc": "https://static.ndmais.com.br/2013/07/18-07-2013-06-07-03-benfica-tv-tem-80-mil-assinantes-e-concorrente-responde-com-novo-canal.jpg"
+  },
+  {
+    "videoModalId": "44",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=7339140",
+    "videoTitle": "Bis",
+    "imgSrc": "https://portalpopline.com.br/wp-content/uploads/2021/12/bis.jpg"
+  },
+  {
+    "videoModalId": "45",
+    "iframeSrc": "https://playertv.net/tv.php?c=bis",
+    "videoTitle": "Bis Op 2",
+    "imgSrc": "https://portalpopline.com.br/wp-content/uploads/2021/12/bis.jpg"
+  },
+  {
+    "videoModalId": "46",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=7339060",
+    "videoTitle": "Canal Brasil",
+    "imgSrc": "https://designconceitual.com.br/wp-content/uploads/2021/03/Canal-Brasil-Nova-identidade-e-logotipo-2021.gif"
+  },
+  {
+    "videoModalId": "47",
+    "iframeSrc": "https://playertv.net/tv.php?c=canal-brasil",
+    "videoTitle": "Canal Brasil Op 2",
+    "imgSrc": "https://designconceitual.com.br/wp-content/uploads/2021/03/Canal-Brasil-Nova-identidade-e-logotipo-2021.gif"
+  },
+  {
+    "videoModalId": "48",
+    "iframeSrc": "https://playertv.net/tv.php?c=cartoon",
+    "videoTitle": "Cartoon Network",
+    "imgSrc": "https://logowik.com/content/uploads/images/cartoon-network5178.jpg"
+  },
+  {
+    "videoModalId": "49",
+    "iframeSrc": "https://playertv.net/tv.php?c=cartoonito",
+    "videoTitle": "Cartoonito",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcDam3tTiE1qRkprAyDEwKL54kJ5EJZqmdwq9S-tgodtKcIF-6nMiQ4KMKXDzaecM9a_g&usqp=CAU"
+  },
+  {
+    "videoModalId": "50",
+    "iframeSrc": "https://playertv.net/tv.php?c=caze",
+    "videoTitle": "CazéTV",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSslLgT1tzDoj2sIx5bF_5S5kJDgirl9n3ngUUbp5SLCJkB5m8fRtaWvE0MqFaj355t28Y&usqp=CAU"
+  },
+  {
+    "videoModalId": "51",
+    "iframeSrc": "https://playertv.net/tv.php?c=cine-canal",
+    "videoTitle": "Cine Canal",
+    "imgSrc": "https://mir-s3-cdn-cf.behance.net/projects/404/ee33bf151598341.Y3JvcCwxMzgwLDEwODAsMjczLDA.jpg"
+  },
+  {
+    "videoModalId": "52",
+    "iframeSrc": "https://playertv.net/tv.php?c=cinemax",
+    "videoTitle": "Cinemax",
+    "imgSrc": "https://melhorescolha.com/blog/wp-content/uploads/2020/03/cinemax.jpg"
+  },
+  {
+    "videoModalId": "53",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=cnn",
+    "videoTitle": "CNN",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw8hPuqp6WRbstC_z7oXc_4o0OCJctA7I8Brf-3CCSmUV0NarCCikdgH5o_1kx31QqjU4&usqp=CAU"
+  },
+  {
+    "videoModalId": "54",
+    "iframeSrc": "https://playertv.net/tv.php?c=cnn",
+    "videoTitle": "CNN Op 2",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw8hPuqp6WRbstC_z7oXc_4o0OCJctA7I8Brf-3CCSmUV0NarCCikdgH5o_1kx31QqjU4&usqp=CAU"
+  },
+  {
+    "videoModalId": "55",
+    "iframeSrc": "https://playertv.net/g/g.php?id=3180444",
+    "videoTitle": "Combate",
+    "imgSrc": "https://s3.glbimg.com/v1/AUTH_d293cd467b2749dfa7046f74d82537d0/prod/home-share-combate-343f6619.png"
+  },
+  {
+    "videoModalId": "56",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=combate",
+    "videoTitle": "Combate Op 2",
+    "imgSrc": "https://s3.glbimg.com/v1/AUTH_d293cd467b2749dfa7046f74d82537d0/prod/home-share-combate-343f6619.png"
+  },
+  {
+    "videoModalId": "57",
+    "iframeSrc": "https://playertv.net/tv.php?c=combate",
+    "videoTitle": "Combate Op 3",
+    "imgSrc": "https://s3.glbimg.com/v1/AUTH_d293cd467b2749dfa7046f74d82537d0/prod/home-share-combate-343f6619.png"
+  },
+  {
+    "videoModalId": "58",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=comedyCentral",
+    "videoTitle": "Comedy Central",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-3abn98E84qW2MShV84d72ly2ntKF_fdVOh97BNakGHauJuPjahjM_kPwBv-4SY3KBNY&usqp=CAU"
+  },
+  {
+    "videoModalId": "59",
+    "iframeSrc": "https://playertv.net/c/u.php?id=comedyCentral",
+    "videoTitle": "Comedy Central Op 2",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-3abn98E84qW2MShV84d72ly2ntKF_fdVOh97BNakGHauJuPjahjM_kPwBv-4SY3KBNY&usqp=CAU"
+  },
+  {
+    "videoModalId": "60",
+    "iframeSrc": "https://playertv.net/tv.php?c=comedy-central",
+    "videoTitle": "Comedy Central Op 3",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-3abn98E84qW2MShV84d72ly2ntKF_fdVOh97BNakGHauJuPjahjM_kPwBv-4SY3KBNY&usqp=CAU"
+  },
+  {
+    "videoModalId": "61",
+    "iframeSrc": "https://playertv.net/tv.php?c=copa1",
+    "videoTitle": "Copa Nordeste 1",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK22Udo6wBdk7wiWs24rTJcTQy0TAtmXJuZtozROSl9gWB2vQtfpuCFxbHm-Jc5q_GQ00&usqp=CAU"
+  },
+  {
+    "videoModalId": "62",
+    "iframeSrc": "https://playertv.net/tv.php?c=copa2",
+    "videoTitle": "Copa Nordeste 2",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK22Udo6wBdk7wiWs24rTJcTQy0TAtmXJuZtozROSl9gWB2vQtfpuCFxbHm-Jc5q_GQ00&usqp=CAU"
+  },
+  {
+    "videoModalId": "63",
+    "iframeSrc": "https://playertv.net/tv.php?c=curta",
+    "videoTitle": "Curta!",
+    "imgSrc": "https://telaviva.com.br/wp-content/uploads/2021/09/canal-curta-.jpg"
+  },
+  {
+    "videoModalId": "64",
+    "iframeSrc": "https://playertv.net/tv.php?c=dazn",
+    "videoTitle": "Dazn",
+    "imgSrc": "https://www.mktesportivo.com/wp-content/uploads/2019/08/dazn-sub-20.jpg"
+  },
+  {
+    "videoModalId": "65",
+    "iframeSrc": "https://playertv.net/tv.php?c=d-channel",
+    "videoTitle": "Discovery Channel",
+    "imgSrc": "https://www.publicitarioscriativos.com/wp-content/uploads/2019/04/Discovery-Channel-abandona-logo-3D-e-apresenta-nova-identidade-visual-1100x600.png"
+  },
+  {
+    "videoModalId": "66",
+    "iframeSrc": "https://playertv.net/tv.php?c=d-hh",
+    "videoTitle": "Discovery Home & Health",
+    "imgSrc": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTEdM1bq9sNAvhDaausDeM1dqa8SkwekdL_loPNHgxEYVM6XTQg7nj50JzsvNHzGQuudD3DmDaF8hSVqw1EPlligMBL87r7j_I1n18i8qksVw3NS9bWCd5AkoaaQ6rnHFlvjRiOXWbywE-tpV9-w3mGUpcmCfdS9OgvYoQ9XQ8aTcDqlxOZCZBKpqNHQ/s1920/Captura%20de%20Tela%20(1167).png"
+  },
+  {
+    "videoModalId": "67",
+    "iframeSrc": "https://playertv.net/tv.php?c=d-kids",
+    "videoTitle": "Discovery Kids",
+    "imgSrc": "https://3dwarehouse.sketchup.com/warehouse/v1.0/content/public/ee3a5619-ad03-4844-90fc-d6aa7eb0e3da"
+  },
+  {
+    "videoModalId": "68",
+    "iframeSrc": "https://playertv.net/tv.php?c=d-science",
+    "videoTitle": "Discovery Science",
+    "imgSrc": "https://i.ytimg.com/vi/D1_upDw-DFM/maxresdefault.jpg"
+  },
+  {
+    "videoModalId": "69",
+    "iframeSrc": "https://playertv.net/tv.php?c=d-theater",
+    "videoTitle": "Discovery Theater",
+    "imgSrc": "https://i.ytimg.com/vi/bjibZ7sRbEg/maxresdefault.jpg"
+  },
+  {
+    "videoModalId": "70",
+    "iframeSrc": "https://playertv.net/tv.php?c=d-turbo",
+    "videoTitle": "Discovery Turbo",
+    "imgSrc": "https://appnew.megainfoapp.com/files/1/DiscoveryTurbo.png"
+  },
+  {
+    "videoModalId": "71",
+    "iframeSrc": "https://playertv.net/tv.php?c=d-world",
+    "videoTitle": "Discovery World",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtosBCbq9UW1llyDN0qmdNIHR3iMIUikg7Ru-pfY5FQDnW6jjJEx0rjFO7aEwvsrmblVg&usqp=CAU"
+  },
+  {
+    "videoModalId": "72",
+    "iframeSrc": "https://playertv.net/tv.php?c=disney",
+    "videoTitle": "Disney",
+    "imgSrc": "https://assets.b9.com.br/wp-content/uploads/2018/11/disney-logo-publicity-h_2018.jpg"
+  },
+  {
+    "videoModalId": "73",
+    "iframeSrc": "https://playertv.net/tv.php?c=dreamworks",
+    "videoTitle": "Dreamworks",
+    "imgSrc": "https://i0.wp.com/www.arrobanerd.com.br/wp-content/uploads/2022/11/dreamworks-animation.jpg?fit=800%2C454&ssl=1"
+  },
+  {
+    "videoModalId": "74",
+    "iframeSrc": "https://playertv.net/tv.php?c=dsports",
+    "videoTitle": "Dsports",
+    "imgSrc": "https://t2.tudocdn.net/620389?w=646&h=284"
+  },
+  {
+    "videoModalId": "75",
+    "iframeSrc": "https://playertv.net/tv.php?c=entertainment",
+    "videoTitle": "E! Entertainment",
+    "imgSrc": "https://www.spinoff.com.br/wp-content/uploads/canal-e-logo.jpg"
+  },
+  {
+    "videoModalId": "76",
+    "iframeSrc": "https://playertv.net/tv.php?c=eleven1",
+    "videoTitle": "Eleven 1 Op 2",
+    "imgSrc": "https://m.media-amazon.com/images/I/91q0-aVybXL.png"
+  },
+  {
+    "videoModalId": "77",
+    "iframeSrc": "https://playertv.net/tv.php?c=eleven2",
+    "videoTitle": "Eleven 2 Op 2",
+    "imgSrc": "https://m.media-amazon.com/images/I/91q0-aVybXL.png"
+  },
+  {
+    "videoModalId": "78",
+    "iframeSrc": "https://playertv.net/tv.php?c=eleven3",
+    "videoTitle": "Eleven 3 Op 2",
+    "imgSrc": "https://m.media-amazon.com/images/I/91q0-aVybXL.png"
+  },
+  {
+    "videoModalId": "79",
+    "iframeSrc": "https://playertv.net/tv.php?c=eleven4",
+    "videoTitle": "Eleven 4 Op 2",
+    "imgSrc": "https://m.media-amazon.com/images/I/91q0-aVybXL.png"
+  },
+  {
+    "videoModalId": "80",
+    "iframeSrc": "https://playertv.net/tv.php?c=eleven5",
+    "videoTitle": "Eleven 5 Op 2",
+    "imgSrc": "https://m.media-amazon.com/images/I/91q0-aVybXL.png"
+  },
+  {
+    "videoModalId": "81",
+    "iframeSrc": "https://playertv.net/tv.php?c=eleven6",
+    "videoTitle": "Eleven 6 Op 2",
+    "imgSrc": "https://m.media-amazon.com/images/I/91q0-aVybXL.png"
+  },
+  {
+    "videoModalId": "82",
+    "iframeSrc": "https://playertv.net/tv.php?c=espn",
+    "videoTitle": "ESPN",
+    "imgSrc": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png"
+  },
+  {
+    "videoModalId": "83",
+    "iframeSrc": "https://playertv.net/tv.php?c=espn2",
+    "videoTitle": "ESPN 2",
+    "imgSrc": "https://logowik.com/content/uploads/images/espn24510.jpg"
+  },
+  {
+    "videoModalId": "84",
+    "iframeSrc": "https://playertv.net/tv.php?c=espn2-op2",
+    "videoTitle": "ESPN 2 Op 2",
+    "imgSrc": "https://logowik.com/content/uploads/images/espn24510.jpg"
+  },
+  {
+    "videoModalId": "85",
+    "iframeSrc": "https://playertv.net/tv.php?c=espn3",
+    "videoTitle": "ESPN 3",
+    "imgSrc": "https://espnpressroom.com/us/files/2012/04/ESPN3-Logo.jpg"
+  },
+  {
+    "videoModalId": "86",
+    "iframeSrc": "https://playertv.net/tv.php?c=espn3-op2",
+    "videoTitle": "ESPN 3 Op 2",
+    "imgSrc": "https://espnpressroom.com/us/files/2012/04/ESPN3-Logo.jpg"
+  },
+  {
+    "videoModalId": "87",
+    "iframeSrc": "https://playertv.net/tv.php?c=espn4",
+    "videoTitle": "ESPN 4",
+    "imgSrc": "https://futbollibre.lol/img/logo-canal/ESPN_4.webp"
+  },
+  {
+    "videoModalId": "88",
+    "iframeSrc": "https://playertv.net/tv.php?c=espn4-op2",
+    "videoTitle": "ESPN 4 Op 2",
+    "imgSrc": "https://futbollibre.lol/img/logo-canal/ESPN_4.webp"
+  },
+  {
+    "videoModalId": "89",
+    "iframeSrc": "https://playertv.net/tv.php?c=espn-extra",
+    "videoTitle": "ESPN Extra",
+    "imgSrc": "https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg"
+  },
+  {
+    "videoModalId": "90",
+    "iframeSrc": "https://playertv.net/tv.php?c=espn-op2",
+    "videoTitle": "ESPN Op 2",
+    "imgSrc": "https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png"
+  },
+  {
+    "videoModalId": "91",
+    "iframeSrc": "https://playertv.net/tv.php?c=f1",
+    "videoTitle": "F1",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO0ZvF4mVpKeZEHDyhYIG9z2LdbzBeGTguzbwGPp5ITjcagpHaMRwcOkP_6FOCT9rNuCg&usqp=CAU"
+  },
+  {
+    "videoModalId": "92",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=filmarts",
+    "videoTitle": "Film&Arts",
+    "imgSrc": "https://grandesnomesdapropaganda.com.br/wp-content/uploads/2020/07/FilmArts.jpg"
+  },
+  {
+    "videoModalId": "93",
+    "iframeSrc": "https://playertv.net/tv.php?c=food-network",
+    "videoTitle": "Food Network",
+    "imgSrc": "https://imagem.natelinha.uol.com.br/grande/foodnetwork.jpg"
+  },
+  {
+    "videoModalId": "94",
+    "iframeSrc": "https://playertv.net/tv.php?c=fox-sports2",
+    "videoTitle": "Fox Sports 2",
+    "imgSrc": "https://www.exorbeo.com/wp-content/uploads/2013/12/Fox-Sports2-hd-na-claro-tv.jpg"
+  },
+  {
+    "videoModalId": "95",
+    "iframeSrc": "https://playertv.net/tv.php?c=furacaotv",
+    "videoTitle": "Furacão TV",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Dn_QPCYfRlv4LlgNK3pYeK7NBESta05CphmD4CeH85_8Cdkj-QtQJ0IZqapM8mptwCA&usqp=CAU"
+  },
+  {
+    "videoModalId": "96",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=7420604",
+    "videoTitle": "Futura",
+    "imgSrc": "https://d3un0zjblgkxzb.cloudfront.net/drupal/public/styles/imagem_paragraph_foto/public/media/image/2022-07/Futura%20logo%20nova.jpg.jpeg?VersionId=8Mgo6315Gr_OKG6rgM9zsEZFQxpX_MfW&itok=p8tcAFep"
+  },
+  {
+    "videoModalId": "97",
+    "iframeSrc": "https://playertv.net/tv.php?c=futura",
+    "videoTitle": "Futura Op 2",
+    "imgSrc": "https://d3un0zjblgkxzb.cloudfront.net/drupal/public/styles/imagem_paragraph_foto/public/media/image/2022-07/Futura%20logo%20nova.jpg.jpeg?VersionId=8Mgo6315Gr_OKG6rgM9zsEZFQxpX_MfW&itok=p8tcAFep"
+  },
+  {
+    "videoModalId": "98",
+    "iframeSrc": "https://playertv.net/tv.php?c=fx",
+    "videoTitle": "FX",
+    "imgSrc": "https://img.olhardigital.com.br/wp-content/uploads/2020/03/20200302041630.jpg"
+  },
+  {
+    "videoModalId": "99",
+    "iframeSrc": "https://playertv.net/g/g.php?id=3180453",
+    "videoTitle": "Globo News",
+    "imgSrc": "https://pbs.twimg.com/media/EuwLjvFXAAM1Ej6.jpg"
+  },
+  {
+    "videoModalId": "100",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=globoNews",
+    "videoTitle": "Globo News Op 2",
+    "imgSrc": "https://pbs.twimg.com/media/EuwLjvFXAAM1Ej6.jpg"
+  },
+  {
+    "videoModalId": "101",
+    "iframeSrc": "https://playertv.net/tv.php?c=globo-news",
+    "videoTitle": "Globo News Op 3",
+    "imgSrc": "https://pbs.twimg.com/media/EuwLjvFXAAM1Ej6.jpg"
+  },
+  {
+    "videoModalId": "102",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=7339146",
+    "videoTitle": "Gloob",
+    "imgSrc": "https://2.bp.blogspot.com/-PGdCbUsIqTE/WVUs-xmbI8I/AAAAAAAA79k/Ie9ZzBGmpBIkBKHSn3yobmh5g5co5W2lwCLcBGAs/s1600/Gloob_4.jpg"
+  },
+  {
+    "videoModalId": "103",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=gloob",
+    "videoTitle": "Gloob Op 2",
+    "imgSrc": "https://2.bp.blogspot.com/-PGdCbUsIqTE/WVUs-xmbI8I/AAAAAAAA79k/Ie9ZzBGmpBIkBKHSn3yobmh5g5co5W2lwCLcBGAs/s1600/Gloob_4.jpg"
+  },
+  {
+    "videoModalId": "104",
+    "iframeSrc": "https://playertv.net/tv.php?c=gloob",
+    "videoTitle": "Gloob Op 3",
+    "imgSrc": "https://2.bp.blogspot.com/-PGdCbUsIqTE/WVUs-xmbI8I/AAAAAAAA79k/Ie9ZzBGmpBIkBKHSn3yobmh5g5co5W2lwCLcBGAs/s1600/Gloob_4.jpg"
+  },
+  {
+    "videoModalId": "105",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=7339323",
+    "videoTitle": "Gloobinho",
+    "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/9/91/GloobinhoLogo.png"
+  },
+  {
+    "videoModalId": "106",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=gloobinho",
+    "videoTitle": "Gloobinho Op 2",
+    "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/9/91/GloobinhoLogo.png"
+  },
+  {
+    "videoModalId": "107",
+    "iframeSrc": "https://playertv.net/tv.php?c=globinho",
+    "videoTitle": "Gloobinho Op 3",
+    "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/9/91/GloobinhoLogo.png"
+  },
+  {
+    "videoModalId": "108",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=7339128",
+    "videoTitle": "GNT",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLIJChGhAFY2ql3553n6GCbqAqdpbZEMQ4NT6kFdJ8MvBMy5BUJU2rzTOuAKeAj-tuYIY&usqp=CAU"
+  },
+  {
+    "videoModalId": "109",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=gnt",
+    "videoTitle": "GNT Op 2",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLIJChGhAFY2ql3553n6GCbqAqdpbZEMQ4NT6kFdJ8MvBMy5BUJU2rzTOuAKeAj-tuYIY&usqp=CAU"
+  },
+  {
+    "videoModalId": "110",
+    "iframeSrc": "https://playertv.net/tv.php?c=gnt",
+    "videoTitle": "GNT Op 3",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLIJChGhAFY2ql3553n6GCbqAqdpbZEMQ4NT6kFdJ8MvBMy5BUJU2rzTOuAKeAj-tuYIY&usqp=CAU"
+  },
+  {
+    "videoModalId": "111",
+    "iframeSrc": "https://playertv.net/c/u.php?id=h2",
+    "videoTitle": "H2",
+    "imgSrc": "https://1.bp.blogspot.com/-KYF9NUIvbHo/X1fIIFx8_9I/AAAAAAABxoI/3lmF_k7SGI8qEgmbL5-d7P4KaHAOHO7jQCLcBGAsYHQ/s1600/LOGO%252BH2_WHITE_1920x1080.jpg"
+  },
+  {
+    "videoModalId": "112",
+    "iframeSrc": "https://playertv.net/tv.php?c=h2",
+    "videoTitle": "H2 Op 2",
+    "imgSrc": "https://1.bp.blogspot.com/-KYF9NUIvbHo/X1fIIFx8_9I/AAAAAAABxoI/3lmF_k7SGI8qEgmbL5-d7P4KaHAOHO7jQCLcBGAsYHQ/s1600/LOGO%252BH2_WHITE_1920x1080.jpg"
+  },
+  {
+    "videoModalId": "113",
+    "iframeSrc": "https://playertv.net/tv.php?c=hbo",
+    "videoTitle": "HBO",
+    "imgSrc": "https://logosmarcas.net/wp-content/uploads/2020/09/HBO-Simbolo.jpg"
+  },
+  {
+    "videoModalId": "114",
+    "iframeSrc": "https://playertv.net/tv.php?c=hbo2",
+    "videoTitle": "HBO 2",
+    "imgSrc": "https://focalizando.com.br/sites/default/files/inline-images/hbo-2-ao-vivo-24-horas.webp"
+  },
+  {
+    "videoModalId": "115",
+    "iframeSrc": "https://playertv.net/tv.php?c=hbo-family",
+    "videoTitle": "HBO Family",
+    "imgSrc": "https://www.pngkit.com/png/detail/223-2235572_mira-hbo-family-online-desde-tu-dispositivo-gratis.png"
+  },
+  {
+    "videoModalId": "116",
+    "iframeSrc": "https://playertv.net/tv.php?c=hbo-max",
+    "videoTitle": "HBO Max",
+    "imgSrc": "https://cdn.ome.lt/mk8c9R0BWGmfjJ4Byh8BHQliWBs=/1200x630/smart/extras/conteudos/hbomaxbilheteria.png"
+  },
+  {
+    "videoModalId": "117",
+    "iframeSrc": "https://playertv.net/tv.php?c=hbo-max2",
+    "videoTitle": "HBO Max 2",
+    "imgSrc": "https://cdn.ome.lt/mk8c9R0BWGmfjJ4Byh8BHQliWBs=/1200x630/smart/extras/conteudos/hbomaxbilheteria.png"
+  },
+  {
+    "videoModalId": "118",
+    "iframeSrc": "https://playertv.net/tv.php?c=hbo-max3",
+    "videoTitle": "HBO Max 3",
+    "imgSrc": "https://cdn.ome.lt/mk8c9R0BWGmfjJ4Byh8BHQliWBs=/1200x630/smart/extras/conteudos/hbomaxbilheteria.png"
+  },
+  {
+    "videoModalId": "119",
+    "iframeSrc": "https://playertv.net/tv.php?c=hbo-mundi",
+    "videoTitle": "HBO Mundi",
+    "imgSrc": "https://i0.wp.com/nerdrecomenda.com.br/wp-content/uploads/2020/10/maxresdefault-1.jpg"
+  },
+  {
+    "videoModalId": "120",
+    "iframeSrc": "https://playertv.net/tv.php?c=hbo-plus",
+    "videoTitle": "HBO Plus",
+    "imgSrc": "https://www.nicepng.com/png/detail/223-2235574_1-hbo-http-hbo-plus-logo-png.png"
+  },
+  {
+    "videoModalId": "121",
+    "iframeSrc": "https://playertv.net/tv.php?c=hbo-pop",
+    "videoTitle": "HBO Pop",
+    "imgSrc": "https://i.ytimg.com/vi/fKdNLwyyqic/maxresdefault.jpg"
+  },
+  {
+    "videoModalId": "122",
+    "iframeSrc": "https://playertv.net/tv.php?c=hbo-signature",
+    "videoTitle": "HBO Signature",
+    "imgSrc": "https://www.nicepng.com/png/detail/233-2333073_hbo-signature-latin-atlansia-hbo-signature-logo-png.png"
+  },
+  {
+    "videoModalId": "123",
+    "iframeSrc": "https://playertv.net/tv.php?c=hbo-xtreme",
+    "videoTitle": "HBO Xtreme",
+    "imgSrc": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddpgt7p-e56bd6a5-5392-4dba-b2c2-18df39490d48.png"
+  },
+  {
+    "videoModalId": "124",
+    "iframeSrc": "https://playertv.net/tv.php?c=hgtv",
+    "videoTitle": "HGTV",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvByi_0yfIublOnAHBnKfP3pQt0RJkiVAWhT2MY9AU-kRM0p7dzsTvN_3TGozqm7hCtgY&usqp=CAU"
+  },
+  {
+    "videoModalId": "125",
+    "iframeSrc": "https://playertv.net/c/u.php?id=h1",
+    "videoTitle": "History",
+    "imgSrc": "https://www.history.com/assets/images/history/generic-thumb.jpg"
+  },
+  {
+    "videoModalId": "126",
+    "iframeSrc": "https://playertv.net/tv.php?c=history",
+    "videoTitle": "History Op 2",
+    "imgSrc": "https://www.history.com/assets/images/history/generic-thumb.jpg"
+  },
+  {
+    "videoModalId": "127",
+    "iframeSrc": "https://playertv.net/tv.php?c=d-id",
+    "videoTitle": "Investigação Discovery",
+    "imgSrc": "https://gkpb.com.br/wp-content/uploads/2020/04/novo-logo-investigacao-discovery.jpg"
+  },
+  {
+    "videoModalId": "128",
+    "iframeSrc": "https://playertv.net/tv.php?c=jovem-pan",
+    "videoTitle": "Jovem Pan",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaSls933QC3zOqkAFF0Qu4zi7zuiWieJ5AfYJeP3ps58VOA3TaBgTlKuMN0RdTpsjGaMc&usqp=CAU"
+  },
+  {
+    "videoModalId": "129",
+    "iframeSrc": "https://playertv.net/tv.php?c=laliga",
+    "videoTitle": "La Liga",
+    "imgSrc": "https://www.mktesportivo.com/wp-content/uploads/2019/02/laliga-pirataria.jpg"
+  },
+  {
+    "videoModalId": "130",
+    "iframeSrc": "https://playertv.net/c/u.php?id=lifetime",
+    "videoTitle": "Lifetime",
+    "imgSrc": "https://1.bp.blogspot.com/-XGDr-KfTsgk/YEEw-FunY-I/AAAAAAACBgY/g56bZFFZgsgHfm0NuC1ydH_OnLzvcl5iACLcBGAsYHQ/w640-h360/lifetime.jpg"
+  },
+  {
+    "videoModalId": "131",
+    "iframeSrc": "https://playertv.net/tv.php?c=lifetime",
+    "videoTitle": "Lifetime Op 2",
+    "imgSrc": "https://1.bp.blogspot.com/-XGDr-KfTsgk/YEEw-FunY-I/AAAAAAACBgY/g56bZFFZgsgHfm0NuC1ydH_OnLzvcl5iACLcBGAsYHQ/w640-h360/lifetime.jpg"
+  },
+  {
+    "videoModalId": "132",
+    "iframeSrc": "https://playertv.net/g/g.php?id=12136724",
+    "videoTitle": "Malhação",
+    "imgSrc": "https://upload.wikimedia.org/wikipedia/pt/1/1b/Logo_Malha%C3%A7%C3%A3o_01.png"
+  },
+  {
+    "videoModalId": "133",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=7339152",
+    "videoTitle": "Megapix",
+    "imgSrc": "https://1.bp.blogspot.com/-5t2hfDa4OLs/XIbelmtDiDI/AAAAAAABS0s/IC2YcfVdX_wxIhyAqdl_9-auvv5_stiqgCLcBGAs/s1600/8e98b42584b1a930aee9241e73fa.png"
+  },
+  {
+    "videoModalId": "134",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=megapix",
+    "videoTitle": "Megapix Op 2",
+    "imgSrc": "https://1.bp.blogspot.com/-5t2hfDa4OLs/XIbelmtDiDI/AAAAAAABS0s/IC2YcfVdX_wxIhyAqdl_9-auvv5_stiqgCLcBGAs/s1600/8e98b42584b1a930aee9241e73fa.png"
+  },
+  {
+    "videoModalId": "135",
+    "iframeSrc": "https://playertv.net/tv.php?c=megapix",
+    "videoTitle": "Megapix Op 3",
+    "imgSrc": "https://1.bp.blogspot.com/-5t2hfDa4OLs/XIbelmtDiDI/AAAAAAABS0s/IC2YcfVdX_wxIhyAqdl_9-auvv5_stiqgCLcBGAs/s1600/8e98b42584b1a930aee9241e73fa.png"
+  },
+  {
+    "videoModalId": "136",
+    "iframeSrc": "https://playertv.net/tv.php?c=mls",
+    "videoTitle": "MLS",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5MRRzF88d7yLrHmzgbAwpHAs4fw3A6DeX3yiVcw2p83xNILaVDXk9JnlXqijTxZDxucg&usqp=CAU"
+  },
+  {
+    "videoModalId": "137",
+    "iframeSrc": "https://playertv.net/tv.php?c=mls2",
+    "videoTitle": "MLS 2",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5MRRzF88d7yLrHmzgbAwpHAs4fw3A6DeX3yiVcw2p83xNILaVDXk9JnlXqijTxZDxucg&usqp=CAU"
+  },
+  {
+    "videoModalId": "138",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=7339135",
+    "videoTitle": "Modo Viagem",
+    "imgSrc": "https://lh3.googleusercontent.com/-zakcnGw1a2w/Yd2Q_DqpZ_I/AAAAAAAABm4/MI1cY5GMk40ZaB83OpHeNz6w5ukeOIgVQCNcBGAsYHQ/w640-h360/image.png"
+  },
+  {
+    "videoModalId": "139",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=modoViagem",
+    "videoTitle": "Modo Viagem Op 2",
+    "imgSrc": "https://lh3.googleusercontent.com/-zakcnGw1a2w/Yd2Q_DqpZ_I/AAAAAAAABm4/MI1cY5GMk40ZaB83OpHeNz6w5ukeOIgVQCNcBGAsYHQ/w640-h360/image.png"
+  },
+  {
+    "videoModalId": "140",
+    "iframeSrc": "https://playertv.net/tv.php?c=modo-viagem",
+    "videoTitle": "Modo Viagem Op 3",
+    "imgSrc": "https://lh3.googleusercontent.com/-zakcnGw1a2w/Yd2Q_DqpZ_I/AAAAAAAABm4/MI1cY5GMk40ZaB83OpHeNz6w5ukeOIgVQCNcBGAsYHQ/w640-h360/image.png"
+  },
+  {
+    "videoModalId": "141",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=mtv",
+    "videoTitle": "MTV",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpxzOyElBeAhnQhK2qv6IfMori7JL7xbdPx4m8I5QjMGdLF8bYq4IMbVBGHkhZJG9FG9U&usqp=CAU"
+  },
+  {
+    "videoModalId": "142",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=mtv-live",
+    "videoTitle": "MTV Live",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcR-rnWDWRjbMo78bvyGMWn4kKH0uy-Ow4tDnPGgy28TuoAtfbj7wvWOkXyqGcOBx35WU&usqp=CAU"
+  },
+  {
+    "videoModalId": "143",
+    "iframeSrc": "https://playertv.net/c/u.php?id=mtvLive",
+    "videoTitle": "MTV Live Op 2",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcR-rnWDWRjbMo78bvyGMWn4kKH0uy-Ow4tDnPGgy28TuoAtfbj7wvWOkXyqGcOBx35WU&usqp=CAU"
+  },
+  {
+    "videoModalId": "144",
+    "iframeSrc": "https://playertv.net/c/u.php?id=mtv",
+    "videoTitle": "MTV Op 2",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpxzOyElBeAhnQhK2qv6IfMori7JL7xbdPx4m8I5QjMGdLF8bYq4IMbVBGHkhZJG9FG9U&usqp=CAU"
+  },
+  {
+    "videoModalId": "145",
+    "iframeSrc": "https://playertv.net/tv.php?c=mtv",
+    "videoTitle": "MTV Op 3",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpxzOyElBeAhnQhK2qv6IfMori7JL7xbdPx4m8I5QjMGdLF8bYq4IMbVBGHkhZJG9FG9U&usqp=CAU"
+  },
+  {
+    "videoModalId": "146",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=7339131",
+    "videoTitle": "Multishow",
+    "imgSrc": "https://stcotvfoco.com.br/2016/11/post110.jpg"
+  },
+  {
+    "videoModalId": "147",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=multishow",
+    "videoTitle": "Multishow Op 2",
+    "imgSrc": "https://stcotvfoco.com.br/2016/11/post110.jpg"
+  },
+  {
+    "videoModalId": "148",
+    "iframeSrc": "https://playertv.net/tv.php?c=multishow",
+    "videoTitle": "Multishow Op 3",
+    "imgSrc": "https://stcotvfoco.com.br/2016/11/post110.jpg"
+  },
+  {
+    "videoModalId": "149",
+    "iframeSrc": "https://playertv.net/tv.php?c=nat-geo",
+    "videoTitle": "National Geographic",
+    "imgSrc": "https://global-uploads.webflow.com/5e157548d6f7910beea4e2d6/63f4d38bfedb830fe829834b_national-geographic-logo.png"
+  },
+  {
+    "videoModalId": "150",
+    "iframeSrc": "https://playertv.net/tv.php?c=nba",
+    "videoTitle": "NBA",
+    "imgSrc": "https://assets.turbologo.com/blog/pt/2019/10/19133645/NBA-logo-illustration.jpg"
+  },
+  {
+    "videoModalId": "151",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=nickjr",
+    "videoTitle": "Nick Jr",
+    "imgSrc": "https://logosmarcas.net/wp-content/uploads/2021/10/Nick-Jr.-Logo-2009-presente.jpg"
+  },
+  {
+    "videoModalId": "152",
+    "iframeSrc": "https://playertv.net/c/u.php?id=nickjr",
+    "videoTitle": "Nick Jr Op 2",
+    "imgSrc": "https://logosmarcas.net/wp-content/uploads/2021/10/Nick-Jr.-Logo-2009-presente.jpg"
+  },
+  {
+    "videoModalId": "153",
+    "iframeSrc": "https://playertv.net/tv.php?c=nick-jr",
+    "videoTitle": "Nick Jr Op 3",
+    "imgSrc": "https://logosmarcas.net/wp-content/uploads/2021/10/Nick-Jr.-Logo-2009-presente.jpg"
+  },
+  {
+    "videoModalId": "154",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=nick",
+    "videoTitle": "Nickelodeon",
+    "imgSrc": "https://assets.turbologo.com/blog/en/2021/11/15080205/Nickelodeon-1.png"
+  },
+  {
+    "videoModalId": "155",
+    "iframeSrc": "https://playertv.net/c/u.php?id=nick",
+    "videoTitle": "Nickelodeon Op 2",
+    "imgSrc": "https://assets.turbologo.com/blog/en/2021/11/15080205/Nickelodeon-1.png"
+  },
+  {
+    "videoModalId": "156",
+    "iframeSrc": "https://playertv.net/tv.php?c=nick",
+    "videoTitle": "Nickelodeon Op 3",
+    "imgSrc": "https://assets.turbologo.com/blog/en/2021/11/15080205/Nickelodeon-1.png"
+  },
+  {
+    "videoModalId": "157",
+    "iframeSrc": "https://playertv.net/tv.php?c=nossoplus",
+    "videoTitle": "Nosso Futebol +",
+    "imgSrc": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt1ea3bd992afad055/63cc3b03e0108e4e41195b32/nosso_futebol_logo.png"
+  },
+  {
+    "videoModalId": "158",
+    "iframeSrc": "https://playertv.net/tv.php?c=nosso1",
+    "videoTitle": "Nosso Futebol 1",
+    "imgSrc": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt1ea3bd992afad055/63cc3b03e0108e4e41195b32/nosso_futebol_logo.png"
+  },
+  {
+    "videoModalId": "159",
+    "iframeSrc": "https://playertv.net/tv.php?c=nosso2",
+    "videoTitle": "Nosso Futebol 2",
+    "imgSrc": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt1ea3bd992afad055/63cc3b03e0108e4e41195b32/nosso_futebol_logo.png"
+  },
+  {
+    "videoModalId": "160",
+    "iframeSrc": "https://playertv.net/tv.php?c=nosso3",
+    "videoTitle": "Nosso Futebol 3",
+    "imgSrc": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt1ea3bd992afad055/63cc3b03e0108e4e41195b32/nosso_futebol_logo.png"
+  },
+  {
+    "videoModalId": "161",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=7339078",
+    "videoTitle": "Off",
+    "imgSrc": "https://telaviva.com.br/wp-content/uploads/2018/12/OFF-SURF.jpg"
+  },
+  {
+    "videoModalId": "162",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=off",
+    "videoTitle": "Off Op 2",
+    "imgSrc": "https://telaviva.com.br/wp-content/uploads/2018/12/OFF-SURF.jpg"
+  },
+  {
+    "videoModalId": "163",
+    "iframeSrc": "https://playertv.net/tv.php?c=off",
+    "videoTitle": "Off Op 3",
+    "imgSrc": "https://telaviva.com.br/wp-content/uploads/2018/12/OFF-SURF.jpg"
+  },
+  {
+    "videoModalId": "164",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=paramount",
+    "videoTitle": "Paramount",
+    "imgSrc": "https://www.paramount.com/sites/g/files/dxjhpe226/files/styles/og_image_size_1200_x_628_/public/ViacomCBSDotCom/NewsPage/Images/Paramount_SocialShare.jpg?h=79d7b992&itok=GedShUI1"
+  },
+  {
+    "videoModalId": "165",
+    "iframeSrc": "https://playertv.net/c/u.php?id=paramount",
+    "videoTitle": "Paramount Op 2",
+    "imgSrc": "https://www.paramount.com/sites/g/files/dxjhpe226/files/styles/og_image_size_1200_x_628_/public/ViacomCBSDotCom/NewsPage/Images/Paramount_SocialShare.jpg?h=79d7b992&itok=GedShUI1"
+  },
+  {
+    "videoModalId": "166",
+    "iframeSrc": "https://playertv.net/tv.php?c=paramount",
+    "videoTitle": "Paramount Op 3",
+    "imgSrc": "https://www.paramount.com/sites/g/files/dxjhpe226/files/styles/og_image_size_1200_x_628_/public/ViacomCBSDotCom/NewsPage/Images/Paramount_SocialShare.jpg?h=79d7b992&itok=GedShUI1"
+  },
+  {
+    "videoModalId": "167",
+    "iframeSrc": "https://playertv.net/p.php?w&id=paramount1",
+    "videoTitle": "Paramount+ (Conmebol 1)",
+    "imgSrc": "https://maquinadoesporte.com.br/wp-content/uploads/2023/02/paramount_conmebol.jpg"
+  },
+  {
+    "videoModalId": "168",
+    "iframeSrc": "https://playertv.net/tv.php?c=conmebol1",
+    "videoTitle": "Paramount+ (Conmebol 1) Op 2",
+    "imgSrc": "https://maquinadoesporte.com.br/wp-content/uploads/2023/02/paramount_conmebol.jpg"
+  },
+  {
+    "videoModalId": "169",
+    "iframeSrc": "https://playertv.net/tv.php?c=conmebol2",
+    "videoTitle": "Paramount+ (Conmebol 2)",
+    "imgSrc": "https://maquinadoesporte.com.br/wp-content/uploads/2023/02/paramount_conmebol.jpg"
+  },
+  {
+    "videoModalId": "170",
+    "iframeSrc": "https://playertv.net/tv.php?c=conmebol3",
+    "videoTitle": "Paramount+ (Conmebol 3)",
+    "imgSrc": "https://maquinadoesporte.com.br/wp-content/uploads/2023/02/paramount_conmebol.jpg"
+  },
+  {
+    "videoModalId": "171",
+    "iframeSrc": "https://playertv.net/tv.php?c=conmebol4",
+    "videoTitle": "Paramount+ (Conmebol 4)",
+    "imgSrc": "https://maquinadoesporte.com.br/wp-content/uploads/2023/02/paramount_conmebol.jpg"
+  },
+  {
+    "videoModalId": "172",
+    "iframeSrc": "https://playertv.net/tv.php?c=premier-league",
+    "videoTitle": "Premier League",
+    "imgSrc": "https://www.pinnacle.com/Cms_Data/Contents/Guest/Media/Sport/article-preview-epl-hero.jpg"
+  },
+  {
+    "videoModalId": "173",
+    "iframeSrc": "https://playertv.net/g/g.php?id=6082049",
+    "videoTitle": "Premiere 1",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "174",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=premiere",
+    "videoTitle": "Premiere 1 Op 2",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "175",
+    "iframeSrc": "https://playertv.net/c/p.php?id=premiere",
+    "videoTitle": "Premiere 1 Op 3",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "176",
+    "iframeSrc": "https://playertv.net/tv.php?c=premiere",
+    "videoTitle": "Premiere 1 Op 4",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "177",
+    "iframeSrc": "https://playertv.net/tv.php?c=premiere-op2",
+    "videoTitle": "Premiere 1 Op 5",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "178",
+    "iframeSrc": "https://playertv.net/g/g.php?id=6942200",
+    "videoTitle": "Premiere 2",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "179",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=premiere2",
+    "videoTitle": "Premiere 2 Op 2",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "180",
+    "iframeSrc": "https://playertv.net/c/p.php?id=premiere2",
+    "videoTitle": "Premiere 2 Op 3",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "181",
+    "iframeSrc": "https://playertv.net/tv.php?c=premiere2",
+    "videoTitle": "Premiere 2 Op 4",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "182",
+    "iframeSrc": "https://playertv.net/g/g.php?id=6942216",
+    "videoTitle": "Premiere 3",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "183",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=premiere3",
+    "videoTitle": "Premiere 3 Op 2",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "184",
+    "iframeSrc": "https://playertv.net/c/p.php?id=premiere3",
+    "videoTitle": "Premiere 3 Op 3",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "185",
+    "iframeSrc": "https://playertv.net/tv.php?c=premiere3",
+    "videoTitle": "Premiere 3 Op 4",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "186",
+    "iframeSrc": "https://playertv.net/g/g.php?id=6942228",
+    "videoTitle": "Premiere 4",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "187",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=premiere4",
+    "videoTitle": "Premiere 4 Op 2",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "188",
+    "iframeSrc": "https://playertv.net/c/p.php?id=premiere4",
+    "videoTitle": "Premiere 4 Op 3",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "189",
+    "iframeSrc": "https://playertv.net/tv.php?c=premiere4",
+    "videoTitle": "Premiere 4 Op 4",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "190",
+    "iframeSrc": "https://playertv.net/g/g.php?id=6942231",
+    "videoTitle": "Premiere 5",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "191",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=premiere5",
+    "videoTitle": "Premiere 5 Op 2",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "192",
+    "iframeSrc": "https://playertv.net/c/p.php?id=premiere5",
+    "videoTitle": "Premiere 5 Op 3",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "193",
+    "iframeSrc": "https://playertv.net/tv.php?c=premiere5",
+    "videoTitle": "Premiere 5 Op 4",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "194",
+    "iframeSrc": "https://playertv.net/g/g.php?id=6942232",
+    "videoTitle": "Premiere 6",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "195",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=premiere6",
+    "videoTitle": "Premiere 6 Op 2",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "196",
+    "iframeSrc": "https://playertv.net/c/p.php?id=premiere6",
+    "videoTitle": "Premiere 6 Op 3",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "197",
+    "iframeSrc": "https://playertv.net/tv.php?c=premiere6",
+    "videoTitle": "Premiere 6 Op 4",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "198",
+    "iframeSrc": "https://playertv.net/g/g.php?id=6942235",
+    "videoTitle": "Premiere 7",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "199",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=premiere7",
+    "videoTitle": "Premiere 7 Op 2",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "200",
+    "iframeSrc": "https://playertv.net/c/p.php?id=premiere7",
+    "videoTitle": "Premiere 7 Op 3",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "201",
+    "iframeSrc": "https://playertv.net/tv.php?c=premiere7",
+    "videoTitle": "Premiere 7 Op 4",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "202",
+    "iframeSrc": "https://playertv.net/g/g.php?id=6942237",
+    "videoTitle": "Premiere 8",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "203",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=premiere8",
+    "videoTitle": "Premiere 8 Op 2",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "204",
+    "iframeSrc": "https://playertv.net/c/p.php?id=premiere8",
+    "videoTitle": "Premiere 8 Op 3",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "205",
+    "iframeSrc": "https://playertv.net/tv.php?c=premiere8",
+    "videoTitle": "Premiere 8 Op 4",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8F5okYkW_2CpjLzvXyq9cTYTiWCWcAueVcTJsfOxlvOxqGDPodj8tWkx-pW6Ld-W_g2w&usqp=CAU"
+  },
+  {
+    "videoModalId": "206",
+    "iframeSrc": "https://playertv.net/tv.php?c=prime",
+    "videoTitle": "Prime Video 1",
+    "imgSrc": "https://i0.wp.com/tracklist.com.br/wp-content/uploads/2022/05/prime-video-precos.png?fit=1200%2C675&ssl=1"
+  },
+  {
+    "videoModalId": "207",
+    "iframeSrc": "https://playertv.net/tv.php?c=prime2",
+    "videoTitle": "Prime Video 2",
+    "imgSrc": "https://i0.wp.com/tracklist.com.br/wp-content/uploads/2022/05/prime-video-precos.png?fit=1200%2C675&ssl=1"
+  },
+  {
+    "videoModalId": "208",
+    "iframeSrc": "https://playertv.net/tv.php?c=prime3",
+    "videoTitle": "Prime Video 3",
+    "imgSrc": "https://i0.wp.com/tracklist.com.br/wp-content/uploads/2022/05/prime-video-precos.png?fit=1200%2C675&ssl=1"
+  },
+  {
+    "videoModalId": "209",
+    "iframeSrc": "https://playertv.net/tv.php?c=prime4",
+    "videoTitle": "Prime Video 4",
+    "imgSrc": "https://i0.wp.com/tracklist.com.br/wp-content/uploads/2022/05/prime-video-precos.png?fit=1200%2C675&ssl=1"
+  },
+  {
+    "videoModalId": "210",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=ratimbum",
+    "videoTitle": "Rá-Tim-Bum",
+    "imgSrc": "https://2.bp.blogspot.com/-UWhiV4_vI2U/V_VzqbRY1PI/AAAAAAAAkhQ/BqnpCQ-RpfsseNdqpfbydFSFNIEpI4wLgCLcB/s1600/tv-ra-tim-bum-2016_Banner.jpg"
+  },
+  {
+    "videoModalId": "211",
+    "iframeSrc": "https://playertv.net/tv.php?c=ratimbum",
+    "videoTitle": "Rá-Tim-Bum Op 2",
+    "imgSrc": "https://2.bp.blogspot.com/-UWhiV4_vI2U/V_VzqbRY1PI/AAAAAAAAkhQ/BqnpCQ-RpfsseNdqpfbydFSFNIEpI4wLgCLcB/s1600/tv-ra-tim-bum-2016_Banner.jpg"
+  },
+  {
+    "videoModalId": "212",
+    "iframeSrc": "https://playertv.net/playplusembed/live.php?ch=4",
+    "videoTitle": "Record BAHIA",
+    "imgSrc": "https://designersbrasileiros.com.br/wp-content/uploads/2016/07/record-logo-2015.jpg"
+  },
+  {
+    "videoModalId": "213",
+    "iframeSrc": "https://playertv.net/playplusembed/live.php?ch=7",
+    "videoTitle": "Record BELÉM",
+    "imgSrc": "https://designersbrasileiros.com.br/wp-content/uploads/2016/07/record-logo-2015.jpg"
+  },
+  {
+    "videoModalId": "214",
+    "iframeSrc": "https://playertv.net/playplusembed/live.php?ch=5",
+    "videoTitle": "Record BRASÍLIA",
+    "imgSrc": "https://designersbrasileiros.com.br/wp-content/uploads/2016/07/record-logo-2015.jpg"
+  },
+  {
+    "videoModalId": "215",
+    "iframeSrc": "https://playertv.net/playplusembed/live.php?ch=6",
+    "videoTitle": "Record GOIÁS",
+    "imgSrc": "https://designersbrasileiros.com.br/wp-content/uploads/2016/07/record-logo-2015.jpg"
+  },
+  {
+    "videoModalId": "216",
+    "iframeSrc": "https://playertv.net/playplusembed/live.php?ch=8",
+    "videoTitle": "Record MANAUS",
+    "imgSrc": "https://designersbrasileiros.com.br/wp-content/uploads/2016/07/record-logo-2015.jpg"
+  },
+  {
+    "videoModalId": "217",
+    "iframeSrc": "https://playertv.net/playplusembed/live.php?ch=2",
+    "videoTitle": "Record Minas",
+    "imgSrc": "https://designersbrasileiros.com.br/wp-content/uploads/2016/07/record-logo-2015.jpg"
+  },
+  {
+    "videoModalId": "218",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=recordNews",
+    "videoTitle": "Record News",
+    "imgSrc": "https://gkpb.com.br/wp-content/uploads/2022/09/novo-logo-record-news-2022-1024x568.jpg"
+  },
+  {
+    "videoModalId": "219",
+    "iframeSrc": "https://playertv.net/playplusembed/live.php?ch=10",
+    "videoTitle": "Record News Op 2",
+    "imgSrc": "https://gkpb.com.br/wp-content/uploads/2022/09/novo-logo-record-news-2022-1024x568.jpg"
+  },
+  {
+    "videoModalId": "220",
+    "iframeSrc": "https://playertv.net/playplusembed/live.php?ch=1",
+    "videoTitle": "Record Rio",
+    "imgSrc": "https://designersbrasileiros.com.br/wp-content/uploads/2016/07/record-logo-2015.jpg"
+  },
+  {
+    "videoModalId": "221",
+    "iframeSrc": "https://playertv.net/playplusembed/live.php?ch=3",
+    "videoTitle": "Record RS",
+    "imgSrc": "https://designersbrasileiros.com.br/wp-content/uploads/2016/07/record-logo-2015.jpg"
+  },
+  {
+    "videoModalId": "222",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=record",
+    "videoTitle": "Record SP",
+    "imgSrc": "https://designersbrasileiros.com.br/wp-content/uploads/2016/07/record-logo-2015.jpg"
+  },
+  {
+    "videoModalId": "223",
+    "iframeSrc": "https://playertv.net/tv.php?c=record",
+    "videoTitle": "Record SP Op 2",
+    "imgSrc": "https://designersbrasileiros.com.br/wp-content/uploads/2016/07/record-logo-2015.jpg"
+  },
+  {
+    "videoModalId": "224",
+    "iframeSrc": "https://playertv.net/tv.php?c=redetv",
+    "videoTitle": "RedeTV",
+    "imgSrc": "https://set.org.br/wp-content/uploads/2019/06/redetv-1.jpg"
+  },
+  {
+    "videoModalId": "225",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=sbt",
+    "videoTitle": "SBT",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjrFvsJKQ_JymogRM3tE53ikhpgYc1ap-CDg&usqp=CAU"
+  },
+  {
+    "videoModalId": "226",
+    "iframeSrc": "https://playertv.net/tv.php?c=sbt",
+    "videoTitle": "SBT Op 2",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjrFvsJKQ_JymogRM3tE53ikhpgYc1ap-CDg&usqp=CAU"
+  },
+  {
+    "videoModalId": "227",
+    "iframeSrc": "https://playertv.net/tv.php?c=smithsonian",
+    "videoTitle": "Smithsonian",
+    "imgSrc": "https://1.bp.blogspot.com/-oLCOOA1Ltos/XMfVkn2ENAI/AAAAAAABUgk/vXsm7gMyexQIQdKe_6BNmfgwXwdxfeyFACLcBGAs/s1600/smithsonianchannel_logo-850x480.png"
+  },
+  {
+    "videoModalId": "228",
+    "iframeSrc": "https://playertv.net/c/u.php?id=sony",
+    "videoTitle": "Sony",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPN1eJoGbAckz5VLn5Zd99YGLYDk6YbhbCfztZu4RjuyqgZUL6268QVmfpiinr4_9mfAc&usqp=CAU"
+  },
+  {
+    "videoModalId": "229",
+    "iframeSrc": "https://playertv.net/c/u.php?id=sonyMovies",
+    "videoTitle": "Sony Movies",
+    "imgSrc": "https://sonymovies.com/sites/sonymovies/themes/custom/sonymovies/src/img/default_channel.jpg"
+  },
+  {
+    "videoModalId": "230",
+    "iframeSrc": "https://playertv.net/tv.php?c=sony-movie",
+    "videoTitle": "Sony Movies Op 2",
+    "imgSrc": "https://sonymovies.com/sites/sonymovies/themes/custom/sonymovies/src/img/default_channel.jpg"
+  },
+  {
+    "videoModalId": "231",
+    "iframeSrc": "https://playertv.net/tv.php?c=sony",
+    "videoTitle": "Sony Op 2",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPN1eJoGbAckz5VLn5Zd99YGLYDk6YbhbCfztZu4RjuyqgZUL6268QVmfpiinr4_9mfAc&usqp=CAU"
+  },
+  {
+    "videoModalId": "232",
+    "iframeSrc": "https://playertv.net/tv.php?c=space",
+    "videoTitle": "Space",
+    "imgSrc": "https://4.bp.blogspot.com/-rYwZhGBJZdU/XM5BsO_CaYI/AAAAAAABUrI/yrJOEcxR7JUypJu2YmyMs8dyd6uG6EmsACPcBGAYYCw/s1600/SPACE-min.jpg"
+  },
+  {
+    "videoModalId": "233",
+    "iframeSrc": "https://playertv.net/tv.php?c=spt1",
+    "videoTitle": "Sport TV 1",
+    "imgSrc": "https://echoboomer.pt/wp-content/uploads/2021/08/sporttv.jpg"
+  },
+  {
+    "videoModalId": "234",
+    "iframeSrc": "https://playertv.net/tv.php?c=spt2",
+    "videoTitle": "Sport TV 2",
+    "imgSrc": "https://echoboomer.pt/wp-content/uploads/2021/08/sporttv.jpg"
+  },
+  {
+    "videoModalId": "235",
+    "iframeSrc": "https://playertv.net/tv.php?c=spt3",
+    "videoTitle": "Sport TV 3",
+    "imgSrc": "https://echoboomer.pt/wp-content/uploads/2021/08/sporttv.jpg"
+  },
+  {
+    "videoModalId": "236",
+    "iframeSrc": "https://playertv.net/tv.php?c=spt4",
+    "videoTitle": "Sport TV 4",
+    "imgSrc": "https://echoboomer.pt/wp-content/uploads/2021/08/sporttv.jpg"
+  },
+  {
+    "videoModalId": "237",
+    "iframeSrc": "https://playertv.net/tv.php?c=spt5",
+    "videoTitle": "Sport TV 5",
+    "imgSrc": "https://echoboomer.pt/wp-content/uploads/2021/08/sporttv.jpg"
+  },
+  {
+    "videoModalId": "238",
+    "iframeSrc": "https://playertv.net/tv.php?c=spt6",
+    "videoTitle": "Sport TV 6",
+    "imgSrc": "https://echoboomer.pt/wp-content/uploads/2021/08/sporttv.jpg"
+  },
+  {
+    "videoModalId": "239",
+    "iframeSrc": "https://playertv.net/g/g.php?id=3180419",
+    "videoTitle": "Sportv 1",
+    "imgSrc": "https://imagem.natelinha.uol.com.br/original/sportv-logo-visual-antigo_9271.jpeg"
+  },
+  {
+    "videoModalId": "240",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=sportv",
+    "videoTitle": "Sportv 1 Op 2",
+    "imgSrc": "https://imagem.natelinha.uol.com.br/original/sportv-logo-visual-antigo_9271.jpeg"
+  },
+  {
+    "videoModalId": "241",
+    "iframeSrc": "https://playertv.net/tv.php?c=sportv",
+    "videoTitle": "Sportv 1 Op 3",
+    "imgSrc": "https://imagem.natelinha.uol.com.br/original/sportv-logo-visual-antigo_9271.jpeg"
+  },
+  {
+    "videoModalId": "242",
+    "iframeSrc": "https://playertv.net/tv.php?c=sportv-op2",
+    "videoTitle": "Sportv 1 Op 4",
+    "imgSrc": "https://imagem.natelinha.uol.com.br/original/sportv-logo-visual-antigo_9271.jpeg"
+  },
+  {
+    "videoModalId": "243",
+    "iframeSrc": "https://playertv.net/g/g.php?id=3180373",
+    "videoTitle": "Sportv 2",
+    "imgSrc": "https://tvhistoria.com.br/wp-content/uploads/2020/12/sportv-2-logo.jpg"
+  },
+  {
+    "videoModalId": "244",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=sportv2",
+    "videoTitle": "Sportv 2 Op 2",
+    "imgSrc": "https://tvhistoria.com.br/wp-content/uploads/2020/12/sportv-2-logo.jpg"
+  },
+  {
+    "videoModalId": "245",
+    "iframeSrc": "https://playertv.net/tv.php?c=sportv2",
+    "videoTitle": "Sportv 2 Op 3",
+    "imgSrc": "https://tvhistoria.com.br/wp-content/uploads/2020/12/sportv-2-logo.jpg"
+  },
+  {
+    "videoModalId": "246",
+    "iframeSrc": "https://playertv.net/tv.php?c=sportv2-op2",
+    "videoTitle": "Sportv 2 Op 4",
+    "imgSrc": "https://tvhistoria.com.br/wp-content/uploads/2020/12/sportv-2-logo.jpg"
+  },
+  {
+    "videoModalId": "247",
+    "iframeSrc": "https://playertv.net/g/g.php?id=3180413",
+    "videoTitle": "Sportv 3",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ3AYMG5pwoTBoas0ogBYW1CVdC1sSfRUY1ZmuOMF2VsHNk8sRvwxO5xE7OX-Z3S9XFEs&usqp=CAU"
+  },
+  {
+    "videoModalId": "248",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=sportv3",
+    "videoTitle": "Sportv 3 Op 2",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ3AYMG5pwoTBoas0ogBYW1CVdC1sSfRUY1ZmuOMF2VsHNk8sRvwxO5xE7OX-Z3S9XFEs&usqp=CAU"
+  },
+  {
+    "videoModalId": "249",
+    "iframeSrc": "https://playertv.net/tv.php?c=sportv3",
+    "videoTitle": "Sportv 3 Op 3",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ3AYMG5pwoTBoas0ogBYW1CVdC1sSfRUY1ZmuOMF2VsHNk8sRvwxO5xE7OX-Z3S9XFEs&usqp=CAU"
+  },
+  {
+    "videoModalId": "250",
+    "iframeSrc": "https://playertv.net/tv.php?c=sportv3-op2",
+    "videoTitle": "Sportv 3 Op 4",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ3AYMG5pwoTBoas0ogBYW1CVdC1sSfRUY1ZmuOMF2VsHNk8sRvwxO5xE7OX-Z3S9XFEs&usqp=CAU"
+  },
+  {
+    "videoModalId": "251",
+    "iframeSrc": "https://playertv.net/tv.php?c=ssc1",
+    "videoTitle": "SSC SPORTS 1",
+    "imgSrc": "https://i.goalzz.com/?i=o%2Fh%2F1%2F921%2Fssc1-hd-1.png"
+  },
+  {
+    "videoModalId": "252",
+    "iframeSrc": "https://playertv.net/tv.php?c=star",
+    "videoTitle": "Star",
+    "imgSrc": "https://elcomercio.pe/resizer/hgfpSah-rv1obpoylSCny3C955I=/1200x900/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/R2Y2VRRXX5H47O53QTUPBBD6H4.jpg"
+  },
+  {
+    "videoModalId": "253",
+    "iframeSrc": "https://playertv.net/tv.php?c=star-plus",
+    "videoTitle": "Star+",
+    "imgSrc": "https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png"
+  },
+  {
+    "videoModalId": "254",
+    "iframeSrc": "https://playertv.net/tv.php?c=star-plus2",
+    "videoTitle": "Star+ 2",
+    "imgSrc": "https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png"
+  },
+  {
+    "videoModalId": "255",
+    "iframeSrc": "https://playertv.net/tv.php?c=star-plus3",
+    "videoTitle": "Star+ 3",
+    "imgSrc": "https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png"
+  },
+  {
+    "videoModalId": "256",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=7339326",
+    "videoTitle": "Studio Universal",
+    "imgSrc": "https://gkpb.com.br/wp-content/uploads/2016/05/novo-logo-studio-universal-negativo-fundo-preto-blog-gkpb.jpg"
+  },
+  {
+    "videoModalId": "257",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=studio",
+    "videoTitle": "Studio Universal Op 2",
+    "imgSrc": "https://gkpb.com.br/wp-content/uploads/2016/05/novo-logo-studio-universal-negativo-fundo-preto-blog-gkpb.jpg"
+  },
+  {
+    "videoModalId": "258",
+    "iframeSrc": "https://playertv.net/tv.php?c=studio-universal",
+    "videoTitle": "Studio Universal Op 3",
+    "imgSrc": "https://gkpb.com.br/wp-content/uploads/2016/05/novo-logo-studio-universal-negativo-fundo-preto-blog-gkpb.jpg"
+  },
+  {
+    "videoModalId": "259",
+    "iframeSrc": "https://playertv.net/tv.php?c=tcm",
+    "videoTitle": "TCM",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSItr7XPYZps7mnCM9uzhODLt2IUXR5KDPBQP4WSRq2t6IrrU5kRJXAQ5S2VxQIyqUvoCk&usqp=CAU"
+  },
+  {
+    "videoModalId": "260",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=10221184",
+    "videoTitle": "Telecine Action",
+    "imgSrc": "https://portalquem.files.wordpress.com/2013/02/telecine-action.jpg?w=584"
+  },
+  {
+    "videoModalId": "261",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=tcAction",
+    "videoTitle": "Telecine Action Op 2",
+    "imgSrc": "https://portalquem.files.wordpress.com/2013/02/telecine-action.jpg?w=584"
+  },
+  {
+    "videoModalId": "262",
+    "iframeSrc": "https://playertv.net/tv.php?c=tc-action",
+    "videoTitle": "Telecine Action Op 3",
+    "imgSrc": "https://portalquem.files.wordpress.com/2013/02/telecine-action.jpg?w=584"
+  },
+  {
+    "videoModalId": "263",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=10221109",
+    "videoTitle": "Telecine Cult",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcdE6gB9kbQtrylXEf5n_pWwtwLBKViH1ilxYhxfnak1OfoQN6k8BlmU-zGdxf_aGYK64&usqp=CAU"
+  },
+  {
+    "videoModalId": "264",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=tcCult",
+    "videoTitle": "Telecine Cult Op 2",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcdE6gB9kbQtrylXEf5n_pWwtwLBKViH1ilxYhxfnak1OfoQN6k8BlmU-zGdxf_aGYK64&usqp=CAU"
+  },
+  {
+    "videoModalId": "265",
+    "iframeSrc": "https://playertv.net/tv.php?c=tc-cult",
+    "videoTitle": "Telecine Cult Op 3",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcdE6gB9kbQtrylXEf5n_pWwtwLBKViH1ilxYhxfnak1OfoQN6k8BlmU-zGdxf_aGYK64&usqp=CAU"
+  },
+  {
+    "videoModalId": "266",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=10223522",
+    "videoTitle": "Telecine Fun",
+    "imgSrc": "https://s2.glbimg.com/8Th3bQUid8gl0kl0_eDuS8OXtHA=/0x1080/https://s2.glbimg.com/zAh72Yl-EJRkMqZ8bSFVe-rBT6A=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/C/V/AAHriYTSCXnr1BxnUQSw/tc-fun-1920x1080.jpg"
+  },
+  {
+    "videoModalId": "267",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=tcFun",
+    "videoTitle": "Telecine Fun Op 2",
+    "imgSrc": "https://s2.glbimg.com/8Th3bQUid8gl0kl0_eDuS8OXtHA=/0x1080/https://s2.glbimg.com/zAh72Yl-EJRkMqZ8bSFVe-rBT6A=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/C/V/AAHriYTSCXnr1BxnUQSw/tc-fun-1920x1080.jpg"
+  },
+  {
+    "videoModalId": "268",
+    "iframeSrc": "https://playertv.net/tv.php?c=tc-fun",
+    "videoTitle": "Telecine Fun Op 3",
+    "imgSrc": "https://s2.glbimg.com/8Th3bQUid8gl0kl0_eDuS8OXtHA=/0x1080/https://s2.glbimg.com/zAh72Yl-EJRkMqZ8bSFVe-rBT6A=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/C/V/AAHriYTSCXnr1BxnUQSw/tc-fun-1920x1080.jpg"
+  },
+  {
+    "videoModalId": "269",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=10221225",
+    "videoTitle": "Telecine Pipoca",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPiJ9mJ-pOSj4GYrePEsAleroEM5UFeVjhYOut0wB2y2xarNzu2EmozA8xax3Yx2rk1zk&usqp=CAU"
+  },
+  {
+    "videoModalId": "270",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=tcPipoca",
+    "videoTitle": "Telecine Pipoca Op 2",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPiJ9mJ-pOSj4GYrePEsAleroEM5UFeVjhYOut0wB2y2xarNzu2EmozA8xax3Yx2rk1zk&usqp=CAU"
+  },
+  {
+    "videoModalId": "271",
+    "iframeSrc": "https://playertv.net/tv.php?c=tc-pipoca",
+    "videoTitle": "Telecine Pipoca Op 3",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPiJ9mJ-pOSj4GYrePEsAleroEM5UFeVjhYOut0wB2y2xarNzu2EmozA8xax3Yx2rk1zk&usqp=CAU"
+  },
+  {
+    "videoModalId": "272",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=10221110",
+    "videoTitle": "Telecine Premium",
+    "imgSrc": "https://s2.glbimg.com/y5G2hXWP9WRhI-ItQFmWJ_7UKqg=/0x1080/https://s2.glbimg.com/RTnf6rdQF2eS0lScVyt01huZjDI=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/o/z/OKyHcrRdysj5Jw8IKnCQ/tc-premim-1920x1080.jpg"
+  },
+  {
+    "videoModalId": "273",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=tcPremium",
+    "videoTitle": "Telecine Premium Op 2",
+    "imgSrc": "https://s2.glbimg.com/y5G2hXWP9WRhI-ItQFmWJ_7UKqg=/0x1080/https://s2.glbimg.com/RTnf6rdQF2eS0lScVyt01huZjDI=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/o/z/OKyHcrRdysj5Jw8IKnCQ/tc-premim-1920x1080.jpg"
+  },
+  {
+    "videoModalId": "274",
+    "iframeSrc": "https://playertv.net/tv.php?c=tc-premium",
+    "videoTitle": "Telecine Premium Op 3",
+    "imgSrc": "https://s2.glbimg.com/y5G2hXWP9WRhI-ItQFmWJ_7UKqg=/0x1080/https://s2.glbimg.com/RTnf6rdQF2eS0lScVyt01huZjDI=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/o/z/OKyHcrRdysj5Jw8IKnCQ/tc-premim-1920x1080.jpg"
+  },
+  {
+    "videoModalId": "275",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=10221239",
+    "videoTitle": "Telecine Touch",
+    "imgSrc": "https://s2-globo-play.glbimg.com/T6SzbEF2hqedxAPgsa_Q_OZZs_w=/0x1080/https://s2-globo-play.glbimg.com/xOrShsbaCVEVcYciCu7HAQ2Rym8=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/W/u/WtG4hhRcq905ysEc9aGg/tc-touch-1920x1080.jpg"
+  },
+  {
+    "videoModalId": "276",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=tcTouch",
+    "videoTitle": "Telecine Touch Op 2",
+    "imgSrc": "https://s2-globo-play.glbimg.com/T6SzbEF2hqedxAPgsa_Q_OZZs_w=/0x1080/https://s2-globo-play.glbimg.com/xOrShsbaCVEVcYciCu7HAQ2Rym8=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/W/u/WtG4hhRcq905ysEc9aGg/tc-touch-1920x1080.jpg"
+  },
+  {
+    "videoModalId": "277",
+    "iframeSrc": "https://playertv.net/tv.php?c=tc-touch",
+    "videoTitle": "Telecine Touch Op 3",
+    "imgSrc": "https://s2-globo-play.glbimg.com/T6SzbEF2hqedxAPgsa_Q_OZZs_w=/0x1080/https://s2-globo-play.glbimg.com/xOrShsbaCVEVcYciCu7HAQ2Rym8=/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/W/u/WtG4hhRcq905ysEc9aGg/tc-touch-1920x1080.jpg"
+  },
+  {
+    "videoModalId": "278",
+    "iframeSrc": "https://playertv.net/tv.php?c=tlc",
+    "videoTitle": "TLC",
+    "imgSrc": "https://tlc.sndimg.com/content/dam/images/tlc/tlcme/fullset/2021/november/tlc-logo-chip.png.rend.hgtvcom.616.347.suffix/1637336502807.png"
+  },
+  {
+    "videoModalId": "279",
+    "iframeSrc": "https://playertv.net/tv.php?c=tnt",
+    "videoTitle": "TNT",
+    "imgSrc": "https://www.verportugal.net/vp/images/cms-image-000006005.png"
+  },
+  {
+    "videoModalId": "280",
+    "iframeSrc": "https://playertv.net/tv.php?c=tnt-novela",
+    "videoTitle": "TNT Novelas",
+    "imgSrc": "https://i.ytimg.com/vi/HrgzTt6-0oY/maxresdefault.jpg"
+  },
+  {
+    "videoModalId": "281",
+    "iframeSrc": "https://playertv.net/tv.php?c=tnt-serie",
+    "videoTitle": "TNT Séries",
+    "imgSrc": "https://4.bp.blogspot.com/-2yU3lzw6Gm8/WRz8MhqeE9I/AAAAAAAA5mM/lv0Oy6Pf_30OwUF794xgBGPQkulfgAdSwCLcB/s1600/content_tnt_serie.jpg"
+  },
+  {
+    "videoModalId": "282",
+    "iframeSrc": "https://playertv.net/tv.php?c=tooncast",
+    "videoTitle": "Tooncast",
+    "imgSrc": "https://www.exorbeo.com/wp-content/uploads/2015/07/sinal-aberto-dos-canais-tooncast-boomerang-e-cartoon-network-em-julho.jpg"
+  },
+  {
+    "videoModalId": "283",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=tvbrasil",
+    "videoTitle": "TV Brasil",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpDk_P-baEY5hrpLnGdqp7aOwpUJiZiu1HdaWDP_wv0e-KoRsx8ceBJTQ20vFxBrcIdMM&usqp=CAU"
+  },
+  {
+    "videoModalId": "284",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=cultura",
+    "videoTitle": "TV Cultura",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlkWr-wiAU1JWirObS2Y79ezCjL1LaueDkWnuytc356G6-A4pep2pILSfU6-oTO20UyFQ&usqp=CAU"
+  },
+  {
+    "videoModalId": "285",
+    "iframeSrc": "https://playertv.net/tv.php?c=cultura",
+    "videoTitle": "TV Cultura Op 2",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlkWr-wiAU1JWirObS2Y79ezCjL1LaueDkWnuytc356G6-A4pep2pILSfU6-oTO20UyFQ&usqp=CAU"
+  },
+  {
+    "videoModalId": "286",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=gazeta",
+    "videoTitle": "TV Gazeta",
+    "imgSrc": "https://www.tvgazeta.com.br/wp-content/themes/tvgazeta/views/imagens/compartilhamento/fb-default.png"
+  },
+  {
+    "videoModalId": "287",
+    "iframeSrc": "https://playertv.net/tv.php?c=ufc",
+    "videoTitle": "UFC",
+    "imgSrc": "https://i.ytimg.com/vi/cLCsLTjnFuA/maxresdefault.jpg"
+  },
+  {
+    "videoModalId": "288",
+    "iframeSrc": "https://playertv.net/tv.php?c=ufc2",
+    "videoTitle": "UFC Op 2",
+    "imgSrc": "https://i.ytimg.com/vi/cLCsLTjnFuA/maxresdefault.jpg"
+  },
+  {
+    "videoModalId": "289",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=7339279",
+    "videoTitle": "Universal",
+    "imgSrc": "https://gkpb.com.br/wp-content/uploads/2018/08/novo-logo-canal-universal-tv-fundo-colorido.jpg"
+  },
+  {
+    "videoModalId": "290",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=universal",
+    "videoTitle": "Universal Op 2",
+    "imgSrc": "https://gkpb.com.br/wp-content/uploads/2018/08/novo-logo-canal-universal-tv-fundo-colorido.jpg"
+  },
+  {
+    "videoModalId": "291",
+    "iframeSrc": "https://playertv.net/tv.php?c=universal",
+    "videoTitle": "Universal Op 3",
+    "imgSrc": "https://gkpb.com.br/wp-content/uploads/2018/08/novo-logo-canal-universal-tv-fundo-colorido.jpg"
+  },
+  {
+    "videoModalId": "292",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=7339224",
+    "videoTitle": "USA Network",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScNHr2D7oyk3q7V4ytQZVs7xC-jlpFH8cgCAcBtUUBgsxmSLx_WqcWS0P4DkCY8Eqkk5Y&usqp=CAU"
+  },
+  {
+    "videoModalId": "293",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=usa",
+    "videoTitle": "USA Network Op 2",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScNHr2D7oyk3q7V4ytQZVs7xC-jlpFH8cgCAcBtUUBgsxmSLx_WqcWS0P4DkCY8Eqkk5Y&usqp=CAU"
+  },
+  {
+    "videoModalId": "294",
+    "iframeSrc": "https://playertv.net/tv.php?c=usa",
+    "videoTitle": "USA Network Op 3",
+    "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScNHr2D7oyk3q7V4ytQZVs7xC-jlpFH8cgCAcBtUUBgsxmSLx_WqcWS0P4DkCY8Eqkk5Y&usqp=CAU"
+  },
+  {
+    "videoModalId": "295",
+    "iframeSrc": "https://playertv.net/g/tv.php?id=7339091",
+    "videoTitle": "Viva",
+    "imgSrc": "https://assets.b9.com.br/wp-content/uploads/2018/04/viva-1280x720_72dpi_RGB.jpg"
+  },
+  {
+    "videoModalId": "296",
+    "iframeSrc": "https://playertv.net/g/g.php?id=12136731",
+    "videoTitle": "Viva 70",
+    "imgSrc": "https://tvhistoria.com.br/wp-content/uploads/2020/04/160318-m5-canalviva.png"
+  },
+  {
+    "videoModalId": "297",
+    "iframeSrc": "https://playertv.net/g/g.php?id=12136735",
+    "videoTitle": "Viva 80",
+    "imgSrc": "https://www.teledramaturgia.com.br/wp-content/uploads/2015/01/PRESIDE-VIVA.png"
+  },
+  {
+    "videoModalId": "298",
+    "iframeSrc": "https://playertv.net/tv.php?c=viva",
+    "videoTitle": "Viva Op 2",
+    "imgSrc": "https://assets.b9.com.br/wp-content/uploads/2018/04/viva-1280x720_72dpi_RGB.jpg"
+  },
+  {
+    "videoModalId": "299",
+    "iframeSrc": "https://playertv.net/c/wbr.php?id=warner",
+    "videoTitle": "Warner Bros",
+    "imgSrc": "https://logosmarcas.net/wp-content/uploads/2021/11/Warner-Bros.-Pictures-Logo-1953-1967-1970-1972-1985-2019.jpg"
+  },
+  {
+    "videoModalId": "300",
+    "iframeSrc": "https://playertv.net/tv.php?c=warner",
+    "videoTitle": "Warner Bros Op 2",
+    "imgSrc": "https://logosmarcas.net/wp-content/uploads/2021/11/Warner-Bros.-Pictures-Logo-1953-1967-1970-1972-1985-2019.jpg"
+  },
+  {
+    "videoModalId": "301",
+    "iframeSrc": "https://playertv.net/tv.php?c=woohoo",
+    "videoTitle": "Woohoo",
+    "imgSrc": "https://estreianatv.com.br/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-15-at-1.48.19-PM-1024x575.jpeg"
+  },
+  {
+    "videoModalId": "302",
+    "iframeSrc": "https://playertv.net/tv.php?c=zoomoo",
+    "videoTitle": "Zoomoo",
+    "imgSrc": "https://3.bp.blogspot.com/-64dBO0Pw7sw/WjmT8fnqYMI/AAAAAAABCac/goe2AYBFl0UePyHSm0yMztwwULHgTajIgCLcBGAs/w1200-h675-p-k-no-nu/Zoomoo.png"
+  }
+]
